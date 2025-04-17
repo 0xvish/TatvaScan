@@ -1,0 +1,378 @@
+---
+Ingredient: Sodium Lauryl Sulfate (SLS)
+Aliases: Sodium dodecyl sulfate, SDS, Lauryl sodium sulfate
+Description: A harsh surfactant that can strip the skin of its natural oils, causing dryness, irritation, and allergic reactions. May also be contaminated with 1,4-dioxane, a potential carcinogen.
+Common Uses: Shampoo, Cleanser, Body Wash, Facial Scrubs
+Potential Side Effects: Skin irritation, dryness, allergic reactions
+Allergen Info: May cause allergic reactions in some users
+Interactions: N/A
+Regulatory Info: Restricted in some applications and concentrations
+Source: Various scientific literature
+---
+Ingredient: Sodium Laureth Sulfate (SLES)
+Aliases: Sodium lauryl ether sulfate
+Description: A milder surfactant than SLS, but can still cause irritation, especially with prolonged use. Also carries a risk of 1,4-dioxane contamination.
+Common Uses: Shampoo, Cleanser, Body Wash, Facial Cleansers
+Potential Side Effects: Skin irritation, dryness
+Allergen Info: May cause allergic reactions in some users
+Interactions: N/A
+Regulatory Info: Restricted in some applications and concentrations
+Source: Various scientific literature
+---
+Ingredient: Parabens
+Aliases: Methylparaben, Ethylparaben, Propylparaben, Butylparaben, Alkyl parahydroxybenzoates
+Description: Used to prevent bacterial growth.  Parabens are endocrine disruptors, meaning they can interfere with the body's hormones.  Linked to potential reproductive and developmental effects, and some studies suggest a link to increased risk of breast cancer.
+Common Uses: Moisturizers, Lotions, Shampoo, Conditioner, Makeup
+Potential Side Effects: Endocrine disruption, reproductive and developmental effects, potential link to breast cancer
+Allergen Info: May cause allergic reactions in some users
+Interactions: Can react with UVB rays and increase skin aging
+Regulatory Info: Banned in the EU for products intended for children under 3 years; limited concentration elsewhere.
+Source: https://www.fda.gov/cosmetics/cosmetic-ingredients/parabens-cosmetics
+---
+Ingredient: Phthalates
+Aliases: Dibutyl phthalate (DBP), Diethyl phthalate (DEP), Bis(2-ethylhexyl) phthalate (DEHP), Phthalic acid esters
+Description: Used to make plastics more flexible and are also found in fragrances. Phthalates are potent endocrine disruptors, linked to a range of health issues, including reproductive and developmental problems, and an increased risk of certain cancers.
+Common Uses: Fragrances, Nail polish, Hair spray, Lotions
+Potential Side Effects: Endocrine disruption, reproductive and developmental problems, increased risk of certain cancers
+Allergen Info: N/A
+Interactions: N/A
+Regulatory Info: Restricted in some applications and concentrations
+Source: Various scientific literature
+---
+Ingredient: Formaldehyde-releasing preservatives (FRPs)
+Aliases: DMDM hydantoin, Diazolidinyl urea, Imidazolidinyl urea, Quaternium-15, Methenamine, Bronopol
+Description: These chemicals slowly release formaldehyde, a known human carcinogen. Formaldehyde can cause skin irritation, allergic reactions, and is linked to respiratory problems.
+Common Uses: Shampoo, Conditioner, Lotions, Cosmetics
+Potential Side Effects: Skin irritation, allergic reactions, respiratory problems, increased risk of cancer
+Allergen Info: May cause allergic reactions in some users
+Interactions: N/A
+Regulatory Info: Formaldehyde is a known carcinogen with restricted use
+Source: Various scientific literature
+---
+Ingredient: Triclosan
+Aliases: 2,4,4'-trichloro-2'-hydroxydiphenyl ether
+Description: Used to kill bacteria. Triclosan is an endocrine disruptor, may contribute to antibiotic resistance, and can be harmful to aquatic life.  Banned in some applications.
+Common Uses: Toothpaste, Hand sanitizer, Soap, Deodorant (some countries)
+Potential Side Effects: Endocrine disruption, potential contribution to antibiotic resistance
+Allergen Info: N/A
+Interactions: N/A
+Regulatory Info: Banned in some applications
+Source: FDA and other regulatory sources
+---
+Ingredient: Oxybenzone
+Aliases: Benzophenone-3, BP-3
+Description: A common chemical sunscreen filter. Oxybenzone can be an endocrine disruptor, may cause skin allergies, and is harmful to coral reefs.
+Common Uses: Chemical Sunscreen
+Potential Side Effects: Endocrine disruption, skin allergies, harm to coral reefs
+Allergen Info: May cause allergic reactions in some users
+Interactions: N/A
+Regulatory Info: Restricted in some regions due to environmental concerns
+Source: Various scientific and regulatory sources
+---
+Ingredient: Homosalate
+Aliases:
+Description: Another chemical sunscreen filter that may disrupt hormone function.
+Common Uses: Chemical Sunscreen
+Potential Side Effects: Potential endocrine disruption
+Allergen Info: N/A
+Interactions: N/A
+Regulatory Info: Subject to concentration limits in some regions
+Source: EWG and scientific literature
+---
+Ingredient: Octinoxate
+Aliases: Octyl methoxycinnamate, OMC
+Description: A chemical sunscreen filter that can be absorbed into the skin and may have hormonal effects. It's also harmful to coral reefs.
+Common Uses: Chemical Sunscreen
+Potential Side Effects: Potential hormonal effects, harm to coral reefs
+Allergen Info: N/A
+Interactions: N/A
+Regulatory Info: Restricted in some regions
+Source: EWG and scientific literature
+---
+Ingredient: Artificial Colors
+Aliases: FD&C Red No. 6, FD&C Red No. 40, FD&C Yellow No. 5, FD&C Yellow No. 6, D&C Red 27
+Description: Synthetic dyes derived from petroleum. Some have been linked to skin sensitivity, allergic reactions, and potential hyperactivity in children. Some are suspected carcinogens.
+Common Uses: Makeup, Skincare, Hair dye
+Potential Side Effects: Skin sensitivity, allergic reactions, potential hyperactivity in children, some are suspected carcinogens
+Allergen Info: May cause allergic reactions in some users
+Interactions: N/A
+Regulatory Info: Restricted in some applications and concentrations
+Source: FDA and scientific literature
+---
+Ingredient: Fragrance / Parfum
+Aliases: Parfum, Aroma
+Description: A blend of undisclosed synthetic chemicals that can cause allergies, skin irritation, and respiratory problems. Some fragrance ingredients are endocrine disruptors and potential carcinogens. The lack of transparency makes it difficult to assess the safety of individual fragrance components.
+Common Uses: Perfume, Cologne, Lotion, Moisturizer, Makeup, Shampoo, Conditioner
+Potential Side Effects: Allergies, skin irritation, respiratory problems, potential endocrine disruption, potential carcinogen
+Allergen Info: May cause allergic reactions in some users
+Interactions: N/A
+Regulatory Info: Labeling requirements vary by region, often with limited disclosure
+Source: EWG, FDA, and scientific literature
+---
+Ingredient: Mineral Oil
+Aliases: Paraffinum Liquidum, Petrolatum, White Mineral Oil
+Description: A petroleum-derived ingredient that can clog pores (comedogenic), potentially leading to acne. May contain impurities if not highly refined. Can prevent the skin from breathing.
+Common Uses: Moisturizer, Lotion, Cold Cream, Baby oil
+Potential Side Effects: Clogged pores, potential for acne, may contain impurities
+Allergen Info: N/A
+Interactions: N/A
+Regulatory Info: Generally recognized as safe when properly refined
+Source: FDA and scientific literature
+---
+Ingredient: Retinyl Palmitate
+Aliases: Vitamin A Palmitate
+Description: An ester of retinol (vitamin A) and palmitic acid. While Vitamin A is essential, retinyl palmitate can increase the skin's sensitivity to UV radiation, potentially accelerating skin aging and increasing the risk of skin cancer when used in sun-exposed products. The safety in sunscreens is debated.
+Common Uses: Anti-aging creams, Lotions, Sunscreens
+Potential Side Effects: Increased skin sensitivity to UV radiation, potential acceleration of skin aging
+Allergen Info: N/A
+Interactions: Increases sensitivity to UV radiation
+Regulatory Info: Subject to debate regarding safety in sunscreens
+Source: Scientific literature, FDA
+---
+Ingredient: Hydroquinone
+Aliases: 1,4-Dihydroxybenzene
+Description: Used to lighten skin. Hydroquinone can cause skin irritation, ochronosis (a disfiguring skin condition), and may increase the risk of skin cancer. Its use is restricted or banned in many countries.
+Common Uses: Skin Lightening Creams
+Potential Side Effects: Skin irritation, ochronosis, potential increased risk of skin cancer
+Allergen Info: May cause allergic reactions
+Interactions: N/A
+Regulatory Info: Restricted or banned in many countries
+Source: Scientific literature, regulatory agencies
+---
+Ingredient: Mercury
+Aliases: Quicksilver
+Description: A toxic heavy metal that can damage the nervous system, kidneys, and liver. Found in some illegal skin-lightening products, particularly those manufactured overseas. Absorption through the skin can lead to significant health problems.
+Common Uses: Illegal Skin Lightening Products
+Potential Side Effects: Damage to nervous system, kidneys, liver
+Allergen Info: N/A
+Interactions: N/A
+Regulatory Info: Banned in cosmetics in many countries
+Source: WHO, FDA
+---
+Ingredient: Lead
+Aliases:
+Description: Another toxic heavy metal that can accumulate in the body and cause neurological damage, developmental problems, and other health issues. Found in some traditional cosmetics, especially kohl and surma.
+Common Uses: Kohl, Surma, Traditional Cosmetics
+Potential Side Effects: Neurological damage, developmental problems
+Allergen Info: N/A
+Interactions: N/A
+Regulatory Info: Restricted or banned in cosmetics
+Source: WHO, FDA
+---
+Ingredient: Talc
+Aliases: Hydrated magnesium silicate
+Description: A mineral used for its absorbent properties. In its natural form, some talc contains asbestos, a known carcinogen. Even asbestos-free talc has been linked to potential respiratory problems and ovarian cancer (in powder form).
+Common Uses: Face powder, Baby powder, Eye shadow, Blush
+Potential Side Effects: Potential respiratory problems, potential link to ovarian cancer (in powder form)
+Allergen Info: N/A
+Interactions: N/A
+Regulatory Info: Concerns about asbestos contamination
+Source: IARC, FDA
+---
+Ingredient: Aluminium
+Aliases: Aluminum
+Description: Used in some antiperspirants. There are concerns about a possible link between aluminum and Alzheimer's disease and breast cancer, though the evidence is not conclusive. Can cause skin irritation for some people.
+Common Uses: Antiperspirants, Deodorants
+Potential Side Effects: Skin irritation, possible link to Alzheimer's disease and breast cancer (inconclusive evidence)
+Allergen Info: May cause skin irritation in some users
+Interactions: N/A
+Regulatory Info: Subject to ongoing research
+Source: Scientific literature
+---
+Ingredient: Ethanolamines
+Aliases: Monoethanolamine, Diethanolamine, Triethanolamine (MEA, DEA, TEA)
+Description: Used as emulsifiers or foaming agents. Can react with other ingredients to form nitrosamines, which are potential carcinogens. Can also cause skin and eye irritation.
+Common Uses: Soaps, Shampoos, Cleansers, Makeup
+Potential Side Effects: Potential formation of nitrosamines, skin and eye irritation
+Allergen Info: May cause skin irritation in some users
+Interactions: Can react to form nitrosamines
+Regulatory Info: Restricted in some applications
+Source: Scientific literature, CIR
+---
+Ingredient: Siloxanes
+Aliases: Silicones, Cyclomethicone, Dimethicone
+Description: Used to soften, smooth, and add shine. Some siloxanes are suspected endocrine disruptors and can be persistent in the environment.
+Common Uses: Moisturizers, Hair products, Makeup
+Potential Side Effects: Potential endocrine disruption
+Allergen Info: N/A
+Interactions: N/A
+Regulatory Info: Some are subject to restrictions
+Source: Scientific literature, ECHA
+---
+Ingredient: Benzophenone
+Aliases: Diphenylketone
+Description: A UV filter that can generate free radicals and is linked to endocrine disruption and potential organ system toxicity.
+Common Uses: Sunscreens, Lip balms
+Potential Side Effects: Endocrine disruption, potential organ system toxicity
+Allergen Info: May cause allergic reactions
+Interactions: Can generate free radicals
+Regulatory Info: Subject to concentration limits
+Source: Scientific literature, EWG
+---
+Ingredient: PABA (Para-aminobenzoic acid)
+Aliases: 4-Aminobenzoic acid
+Description: An older UV filter that is less commonly used today due to its potential to cause allergic reactions and its link to increased risk of DNA damage.
+Common Uses: Sunscreen (less common)
+Potential Side Effects: Allergic reactions, potential increased risk of DNA damage
+Allergen Info: May cause allergic reactions
+Interactions: Can increase risk of DNA damage
+Regulatory Info: Less commonly used due to safety concerns
+Source: Scientific literature, regulatory agencies
+---
+Ingredient: Octocrylene
+Aliases:
+Description: A UV filter that can accumulate in the body and may cause allergic reactions. There are concerns about its potential endocrine disrupting effects and environmental impact.
+Common Uses: Sunscreen
+Potential Side Effects: May accumulate in the body, allergic reactions, potential endocrine disruption
+Allergen Info: May cause allergic reactions
+Interactions: N/A
+Regulatory Info: Subject to concentration limits
+Source: Scientific literature
+---
+Ingredient: Methylisothiazolinone (MIT)
+Aliases: MI, 2-Methyl-4-isothiazolin-3-one
+Description: A preservative used to inhibit bacterial and fungal growth. MIT is a known skin sensitizer and can cause allergic contact dermatitis, even in low concentrations. Its use is restricted in some regions.
+Common Uses: Shampoo, Conditioner, Body wash, Liquid hand soap, Lotions, Cosmetics
+Potential Side Effects: Skin sensitization, allergic contact dermatitis
+Allergen Info: May cause allergic reactions
+Interactions: N/A
+Regulatory Info: Restricted in some regions
+Source: Scientific literature, regulatory agencies
+---
+Ingredient: Methylchloroisothiazolinone (MCIT)
+Aliases: MCI
+Description: Often used in combination with MIT. MCIT is a strong skin sensitizer and can cause allergic reactions. Its use is also restricted in many regions.
+Common Uses: Shampoo, Conditioner, Body wash, Liquid hand soap, Lotions, Cosmetics
+Potential Side Effects: Strong skin sensitization, allergic reactions
+Allergen Info: May cause allergic reactions
+Interactions: N/A
+Regulatory Info: Restricted in many regions
+Source: Scientific literature, regulatory agencies
+---
+Ingredient: Nanoparticles
+Aliases: Nano-materials
+Description: Tiny particles used in some cosmetics, particularly sunscreens and anti-aging products. There are concerns about their potential to penetrate the skin and cause harm, though more research is needed. Specific concerns vary depending on the material (e.g., titanium dioxide, zinc oxide).
+Common Uses: Sunscreens, Anti-aging creams, Makeup
+Potential Side Effects: Potential to penetrate skin, potential harm (research ongoing)
+Allergen Info: N/A
+Interactions: Varies by material
+Regulatory Info: Subject to ongoing research and regulation
+Source: Scientific literature, regulatory agencies
+---
+Ingredient: Avobenzone
+Aliases: Butyl methoxydibenzoylmethane
+Description: A chemical sunscreen agent that absorbs UVA radiation. It can degrade quickly in sunlight, reducing its effectiveness, and may cause allergic reactions in some people. It can also be an endocrine disruptor.
+Common Uses: Sunscreens
+Potential Side Effects: Allergic reactions, potential endocrine disruption
+Allergen Info: May cause allergic reactions
+Interactions: Degrades in sunlight
+Regulatory Info: Subject to concentration limits
+Source: Scientific literature, EWG
+
+---
+Ingredient: Retinol
+Aliases: Vitamin A1
+Description: While beneficial for anti-aging, retinol can cause skin irritation, dryness, and increased sun sensitivity, especially when overused. It is not recommended for pregnant or breastfeeding women.
+Common Uses: Anti-aging creams, Serums
+Potential Side Effects: Skin irritation, dryness, increased sun sensitivity
+Allergen Info: N/A
+Interactions: Increased sun sensitivity
+Regulatory Info: Advised against for pregnant/breastfeeding
+Source: Scientific Literature, FDA
+
+---
+
+Ingredient: Isotretinoin
+Aliases: 13-cis-retinoic acid
+Description: A powerful medication used for severe acne. It can cause serious side effects, including birth defects, liver damage, and depression. Requires strict medical supervision.
+Common Uses: Prescription acne medication
+Potential Side Effects: Serious side effects (birth defects, liver damage, depression)
+Allergen Info: N/A
+Interactions: N/A
+Regulatory Info: Strict medical supervision required
+Source: FDA, Medical Literature
+
+---
+
+Ingredient: Toluene
+Aliases: Methylbenzene
+Description: A volatile solvent used in nail products and hair dyes. Toluene can cause neurological damage, respiratory problems, and skin irritation. It is also a suspected teratogen (can cause birth defects).
+Common Uses: Nail polish, Nail polish remover, Hair dyes
+Potential Side Effects: Neurological damage, respiratory problems, skin irritation, suspected teratogen
+Allergen Info: May cause skin irritation
+Interactions: N/A
+Regulatory Info: Restricted use in some products
+Source: Scientific Literature, OSHA
+
+---
+
+Ingredient: Carbon Black
+Aliases: CI 77266
+Description: A black pigment derived from burning vegetable matter. It is a possible human carcinogen, with concerns primarily related to inhalation of airborne particles (in manufacturing settings).
+Common Uses: Eyeliner, Mascara, Eye shadow
+Potential Side Effects: Possible human carcinogen (primarily inhalation concerns)
+Allergen Info: N/A
+Interactions: N/A
+Regulatory Info: Subject to labeling requirements
+Source: IARC, Scientific Literature
+
+---
+
+Ingredient: Polyacrylamide
+Aliases:
+Description: A polymer used as a binding agent. Of concern because it may contain trace amounts of acrylamide, a known carcinogen.
+Common Uses: Hair styling products, Skin creams
+Potential Side Effects: Potential exposure to acrylamide (known carcinogen)
+Allergen Info: N/A
+Interactions: N/A
+Regulatory Info: Subject to limits on acrylamide content
+Source: Scientific Literature, Regulatory agencies
+
+---
+
+Ingredient: Styrene
+Aliases: Vinylbenzene
+Description: Used in the production of various plastics and resins. It is a possible human carcinogen and can cause respiratory irritation.
+Common Uses: Nail products, Artificial nails
+Potential Side Effects: Possible human carcinogen, respiratory irritation
+Allergen Info: May cause skin/respiratory irritation
+Interactions: N/A
+Regulatory Info: Restricted use in some products
+Source: IARC, Scientific Literature
+
+---
+
+Ingredient: Resorcinol
+Aliases: 1,3-Benzenediol
+Description: Used in hair dyes and some skin treatments. It can be a skin irritant, an endocrine disruptor, and may cause allergic reactions.
+Common Uses: Hair dyes, Acne treatments, Peeling agents
+Potential Side Effects: Skin irritation, potential endocrine disruptor, allergic reactions
+Allergen Info: May cause skin irritation
+Interactions: N/A
+Regulatory Info: Subject to concentration limits
+Source: Scientific Literature, regulatory agencies
+
+---
+
+Ingredient: BHA (Butylated Hydroxyanisole)
+Aliases:
+Description: Used as a preservative in some cosmetics and food. It is a possible human carcinogen and an endocrine disruptor.
+Common Uses: Lipstick, Eye shadow, Other cosmetics
+Potential Side Effects: Possible human carcinogen, potential endocrine disruptor
+Allergen Info: N/A
+Interactions: N/A
+Regulatory Info: Restricted use
+Source: IARC, Scientific Literature
+
+---
+Ingredient: BHT (Butylated Hydroxytoluene)
+Aliases:
+Description: Similar to BHA, used as a preservative. There are concerns about its potential carcinogenic and endocrine disrupting effects, though the evidence is not conclusive.
+Common Uses: Lipstick, Eye shadow, Other cosmetics
+Potential Side Effects: Potential carcinogenic and endocrine disrupting effects (inconclusive evidence)
+Allergen Info: N/A
+Interactions: N/A
+Regulatory Info: Restricted use
+Source: Scientific Literature
+
+---
