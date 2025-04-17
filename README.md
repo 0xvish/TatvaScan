@@ -56,13 +56,13 @@ Set these environment variables **in your terminal session** or OS-level setting
 #### On **Linux/macOS**:
 
 ```bash
-export GEMINI_API_KEY=your_gemini_api_key
+export TATVASCAN_GEMINI_API_KEY=your_gemini_api_key
 ```
 
 #### On **Windows (CMD)**:
 
 ```cmd
-set GEMINI_API_KEY=your_gemini_api_key
+set TATVASCAN_GEMINI_API_KEY=your_gemini_api_key
 ```
 
 Make sure this is set before running the app. You can also add it permanently via `.bashrc`, `.zshrc`, or Windows Environment Variable GUI.
