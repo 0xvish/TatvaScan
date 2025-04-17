@@ -107,7 +107,7 @@ http://localhost:8080/tatvascan
 
 | Upload & Capture             | Ingredient Analysis            |
 | ---------------------------- | ------------------------------ |
-| ![upload](assets/upload.png) | ![result](assets/analysis.png) |
+| ![image](https://github.com/user-attachments/assets/8a1e5871-4dd4-420c-9ef5-70abd2ad4f42) | ![image](https://github.com/user-attachments/assets/9bf1573e-910a-4c70-9095-bb1cb62d4a38) |
 
 ---
 
