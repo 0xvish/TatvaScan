@@ -33,9 +33,8 @@ public class GeminiServlet extends HttpServlet {
 
         // Step 2: Build query message
         String userQuery = buildQueryFromIngredients(ingredientInput);
-
         // Step 3: Load documents & setup embedding
-        List<Document> documents = FileSystemDocumentLoader.loadDocuments("X:\\LDCE\\ajava\\TatvaScan\\documents");
+        List<Document> documents = FileSystemDocumentLoader.loadDocuments("/documents");
         InMemoryEmbeddingStore<TextSegment> embeddingStore = new InMemoryEmbeddingStore<>();
         EmbeddingStoreIngestor.ingest(documents, embeddingStore);
 
