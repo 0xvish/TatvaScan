@@ -56,13 +56,13 @@ Set these environment variables **in your terminal session** or OS-level setting
 #### On **Linux/macOS**:
 
 ```bash
-export GEMINI_API_KEY=your_gemini_api_key
+export TATVASCAN_GEMINI_API_KEY=your_gemini_api_key
 ```
 
 #### On **Windows (CMD)**:
 
 ```cmd
-set GEMINI_API_KEY=your_gemini_api_key
+set TATVASCAN_GEMINI_API_KEY=your_gemini_api_key
 ```
 
 Make sure this is set before running the app. You can also add it permanently via `.bashrc`, `.zshrc`, or Windows Environment Variable GUI.
@@ -107,7 +107,7 @@ http://localhost:8080/tatvascan
 
 | Upload & Capture             | Ingredient Analysis            |
 | ---------------------------- | ------------------------------ |
-| ![upload](assets/upload.png) | ![result](assets/analysis.png) |
+| ![image](https://github.com/user-attachments/assets/8a1e5871-4dd4-420c-9ef5-70abd2ad4f42) | ![image](https://github.com/user-attachments/assets/9bf1573e-910a-4c70-9095-bb1cb62d4a38) |
 
 ---
 
